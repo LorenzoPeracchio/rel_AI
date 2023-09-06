@@ -5,4 +5,9 @@ API
    :toctree: generated
 
    relai
-ReliabilityPackage.ReliabilityFunctions.train_autoencoder
+
+Functions
+.. autosummary::
+:toctree: generated
+
+   ReliabilityPackage.ReliabilityFunctions.train_autoencoder

@@ -1,5 +1,5 @@
 .. currentmodule::
-   ReliabilityPackage
+   ReliabilityPackage.ReliabilityFunctions
 
 API
 ===

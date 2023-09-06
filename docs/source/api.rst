@@ -8,6 +8,6 @@ API
 
 Functions  
 .. autosummary::
-:toctree: generated
+   :toctree: generated
 
    ReliabilityPackage.ReliabilityFunctions.train_autoencoder

@@ -1,9 +1,8 @@
-ReliabilityPackage API Documentation
-============================
+.. autosummary::
+   :toctree: generated
+   :nosignatures:
 
-.. automodule:: rel_AI.ReliabilityPackage.src.ReliabilityFunctions
-   :members:
-   :undoc-members:
-   :show-inheritance:
+   ReliabilityPackage.ReliabilityFunctions
+   ReliabilityPackage.ReliabilityClasses
 
 

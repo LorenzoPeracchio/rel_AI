@@ -1,5 +1,5 @@
 .. currentmodule::
-   ReliabilityPackage.ReliabilityFunctions
+   ReliabilityPackage.src.ReliabilityFunctions
 
 API
 ===
@@ -10,5 +10,10 @@ API
    relai
 
 Functions
+
+.. autosummary::
+   :toctree: generated
+
+   ReliabilityPackage.src.ReliabilityFunctions.train_autoencoder
 
 

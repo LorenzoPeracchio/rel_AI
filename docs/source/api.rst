@@ -5,7 +5,7 @@ RelAI API Documentation
    :toctree: generated/
    :nosignatures:
 
-   prova._contains_only_integers
+   _contains_only_integers
    
 
 

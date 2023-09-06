@@ -1,19 +1,9 @@
-.. currentmodule::
-   ReliabilityPackage.src.ReliabilityFunctions
+ReliabilityPackage API Documentation
+============================
 
-API
-===
-
-.. autosummary::
-   :toctree: generated
-
-   relai
-
-Functions
-
-.. autosummary::
-   :toctree: generated
-
-   rel_AI.ReliabilityPackage.src.ReliabilityFunctions.train_autoencoder
+.. automodule:: rel_AI.ReliabilityPackage.src.ReliabilityFunctions
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 

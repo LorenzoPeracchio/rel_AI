@@ -6,7 +6,7 @@ API
 
    relai
 
-Functions
+Functions  
 .. autosummary::
 :toctree: generated
 

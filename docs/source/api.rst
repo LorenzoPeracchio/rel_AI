@@ -2,7 +2,7 @@
    :toctree: generated
    :nosignatures:
 
-   ReliabilityPackage.ReliabilityFunctions
-   ReliabilityPackage.ReliabilityClasses
+   ReliabilityPackage/src/ReliabilityPackage/ReliabilityFunctions
+   ReliabilityPackage/src/ReliabilityPackage/ReliabilityClasses
 
 

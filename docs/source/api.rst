@@ -5,7 +5,7 @@ RelAI API Documentation
    :toctree: generated
    :nosignatures:
 
-   ReliabilityFunctions
+   ReliabilityFunctions.train_autoencoder
    
 
 

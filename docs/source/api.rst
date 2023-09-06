@@ -2,7 +2,7 @@ RelAI API Documentation
 ============================
 
 .. autosummary::
-   :toctree: generated
+   :toctree: generated/
    :nosignatures:
 
    prova._contains_only_integers

@@ -5,7 +5,7 @@ RelAI API Documentation
    :toctree: generated
    :nosignatures:
 
-   ReliabilityPackage.src.ReliabilityPackage.ReliabilityFunctions
+   ReliabilityPackage/src/ReliabilityPackage/ReliabilityFunctions
    ReliabilityPackage/src/ReliabilityPackage/ReliabilityClasses
 
 

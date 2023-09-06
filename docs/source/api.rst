@@ -14,6 +14,6 @@ Functions
 .. autosummary::
    :toctree: generated
 
-   ReliabilityPackage.src.ReliabilityFunctions.train_autoencoder
+   rel_AI.ReliabilityPackage.src.ReliabilityFunctions.train_autoencoder
 
 

@@ -12,9 +12,6 @@ version = '0.1.0'
 import sys
 import os
 
-# -- Path setup --------------------------------------------------------------
-sys.path.insert(0, os.path.abspath("../../ReliabilityPackage"))
-
 # -- General configuration
 
 extensions = [
@@ -22,27 +19,8 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.napoleon',
     'sphinx.ext.intersphinx',
 ]
-
-autodoc_default_options = {"members": True, "inherited-members": True}
-autosummary_generate = True
-numpydoc_show_class_members = False
-
-
-# The suffix(es) of source filenames.
-# You can specify multiple suffix as a list of string:
-#
-# source_suffix = ['.rst', '.md']
-source_suffix = ".rst"
-
-# The encoding of source files.
-#
-# source_encoding = 'utf-8-sig'
-
-# The master toctree document.
-master_doc = "index"
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),

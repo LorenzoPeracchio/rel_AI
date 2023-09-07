@@ -11,7 +11,7 @@ python:
     - requirements: docs/requirements.txt
   # Install our python package before building the docs
     - method: pip
-      path: ./ReliabilityPackage/src/ReliabilityPackage
+      path: ./ReliabilityPackage/
 
 sphinx:
   configuration: docs/source/conf.py

@@ -7,7 +7,7 @@ RelAI API Documentation
 .. autosummary::
     :toctree: generated/
 
-    my_Function1
+    ReliabilityPackage.ReliabilityFunctions.train_autoencoder
    
 
 

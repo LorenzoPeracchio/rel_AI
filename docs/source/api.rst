@@ -1,4 +1,4 @@
-.. currentmodule:: ReliabilityPackage.src.ReliabilityPackage.ReliabilityPrivateFunctions
+.. currentmodule:: ReliabilityPackage/src/ReliabilityPackage/ReliabilityPrivateFunctions
 
 RelAI API Documentation
 ============================

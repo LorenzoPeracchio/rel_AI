@@ -13,9 +13,7 @@ import sys
 import os
 
 # -- Path setup --------------------------------------------------------------
-ON_READTHEDOCS = os.environ.get("READTHEDOCS") == "True"
-if not ON_READTHEDOCS:
-    sys.path.insert(0, os.path.abspath("../../ReliabilityPackage"))
+sys.path.insert(0, os.path.abspath("../../ReliabilityPackage"))
 
 # -- General configuration
 

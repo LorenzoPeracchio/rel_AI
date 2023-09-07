@@ -9,6 +9,11 @@ author = 'Lorenzo'
 release = '0.1'
 version = '0.1.0'
 
+import sys
+import os
+
+sys.path.insert(0, os.path.abspath('../../ReliabilityPackage/src/ReliabilityPackage'))
+
 # -- General configuration
 
 extensions = [
@@ -16,6 +21,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
+    'spinhx.ext.napoleon',
     'sphinx.ext.intersphinx',
 ]
 

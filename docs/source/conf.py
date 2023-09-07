@@ -21,7 +21,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'spinhx.ext.napoleon',
+    'sphihx.ext.napoleon',
     'sphinx.ext.intersphinx',
 ]
 

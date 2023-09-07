@@ -7,7 +7,7 @@ RelAI API Documentation
 .. autosummary::
    :toctree: generated/
 
-   _contains_only_integers
+   my_function1
    
 
 

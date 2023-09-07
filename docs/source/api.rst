@@ -1,4 +1,4 @@
-.. currentmodule:: ReliabilityPackage/src/ReliabilityPackage/ReliabilityFunctions
+
 
 RelAI API Documentation
 ============================
@@ -7,7 +7,7 @@ RelAI API Documentation
 .. autosummary::
     :toctree: generated/
 
-    ReliabilityFunctions.train_autoencoder
+    ReliabilityFunctions
    
 
 

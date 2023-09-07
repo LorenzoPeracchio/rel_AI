@@ -6,7 +6,7 @@ RelAI API Documentation
    :toctree: generated
    :nosignatures:
 
-   _contains_only_integers
+   ../../ReliabilityPackage/src/ReliabilityPackage/ReliabilityFunctions.train_autoencoder
    
 
 

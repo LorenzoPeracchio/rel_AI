@@ -7,7 +7,7 @@ RelAI API Documentation
 .. autosummary::
     :toctree: generated/
 
-    src/ReliabilityPackage/ReliabilityFunctions
+    ../../ReliabilityPackage/src/ReliabilityPackage/ReliabilityFunctions
    
 
 

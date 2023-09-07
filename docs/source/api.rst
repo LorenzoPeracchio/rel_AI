@@ -1,4 +1,4 @@
-.. currentmodule:: ReliabilityPackage
+.. currentmodule:: ReliabilityPackage.src.ReliabilityPackage.ReliabilityPrivateFunctions
 
 RelAI API Documentation
 ============================
@@ -7,7 +7,7 @@ RelAI API Documentation
 .. autosummary::
    :toctree: generated/
 
-   ReliabilityPackage.src.ReliabilityPackage.ReliabilityFunctions.train_autoencoder
+   _contains_only_integers
    
 
 

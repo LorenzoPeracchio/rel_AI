@@ -25,6 +25,24 @@ extensions = [
     'sphinx.ext.intersphinx',
 ]
 
+autodoc_default_options = {"members": True, "inherited-members": True}
+autosummary_generate = True
+numpydoc_show_class_members = False
+
+
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+#
+# source_suffix = ['.rst', '.md']
+source_suffix = ".rst"
+
+# The encoding of source files.
+#
+# source_encoding = 'utf-8-sig'
+
+# The master toctree document.
+master_doc = "index"
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),

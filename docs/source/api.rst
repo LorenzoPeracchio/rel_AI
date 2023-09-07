@@ -1,4 +1,4 @@
-.. currentmodule:: ReliabilityPackage/src/ReliabilityPackage
+.. currentmodule:: ReliabilityPackage
 
 RelAI API Documentation
 ============================

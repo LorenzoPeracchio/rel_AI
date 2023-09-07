@@ -3,7 +3,7 @@ RelAI API Documentation
 
 
 .. autosummary::
-   :toctree: generated/
+   :toctree: generated
    :nosignatures:
 
    _contains_only_integers

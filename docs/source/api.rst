@@ -7,7 +7,7 @@ RelAI API Documentation
 .. autosummary::
     :toctree: generated/
 
-    ReliabilityPackage.my_Function1
+    my_Function1
    
 
 
